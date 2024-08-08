@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 🤝 I’m looking for help with **Angular & Spring Eco System**
+- 🤝 I’m looking for help with **Azure**
 
 - 💬 Ask me about **Angular**
 
