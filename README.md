@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Azure**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular & Spring Eco System**
 
 - 📫 How to reach me **notalkonlycode@gmail.com**
 
